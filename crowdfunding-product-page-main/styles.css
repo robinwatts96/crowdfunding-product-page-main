@@ -8,4 +8,5 @@ header {
     height: 40vw;
     background-image: url("images/image-hero-mobile.jpg");
     background-size: auto;
+    color: black;
 }
